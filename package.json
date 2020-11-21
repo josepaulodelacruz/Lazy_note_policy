@@ -1,0 +1,11 @@
+{
+  "name": "lazy_notes_policy",
+  "version": "1.0.0",
+  "description": "Privacy Policy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
